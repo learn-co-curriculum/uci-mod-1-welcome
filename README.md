@@ -1,4 +1,4 @@
-# UCI Module 1 HTML and CSS Course
+# UCI HTML and CSS Course
 
 ## Introduction
 
